@@ -12,6 +12,10 @@ export function Header({ menuOpen, setMenuOpen }) {
           <a className="text-[#5d655f] transition-colors hover:text-[#829d18]" href="#work" onClick={closeMenu}>Selected work</a>
           <a className="text-[#5d655f] transition-colors hover:text-[#829d18]" href="#about" onClick={closeMenu}>About</a>
           <a className="border border-ink px-[18px] py-[13px] text-center transition-colors hover:bg-ink hover:text-paper" href="mailto:adilprogrammer73@gmail.com">Let&apos;s talk <span className="ml-3">↗</span></a>
+          <div className="flex gap-5">
+            <a target="_blank" href="https://github.com/CodeAndCofe"><img className="w-8" src="githubz.png" alt="github link" /></a>
+            <a target="_blank" href="https://www.linkedin.com/in/adil-ferryat-90a931297/"><img className="w-8" src="linkedin.png" alt="linkedin link" /></a>
+          </div>
         </div>
       </nav>
     </header>
