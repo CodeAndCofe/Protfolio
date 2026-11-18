@@ -33,7 +33,7 @@ export const projects = [
     preview : "/cub3d.png",
     description: "A team-built 3D raycasting game focused on real-time rendering, graphics logic, and the constraints of building close to the machine.",
     tags: ["C", "Raycasting", "Graphics", "Algorithms"],
-    link: "houser-orcin.vercel.app",
+    link: "https://github.com/CodeAndCofe/cube3d",
   },
   {
     number: "05",
