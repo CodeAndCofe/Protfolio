@@ -37,6 +37,15 @@ export const projects = [
   },
   {
     number: "05",
+    name: "nestly",
+    type: "Interactive web app",
+    preview : "nestly.png",
+    description: "",
+    tags: ["JavaScript", "CSS", "Interaction"],
+    link: "https://github.com/CodeAndCofe/Barktype",
+  },
+  {
+    number: "06",
     name: "Barktype",
     type: "Interactive web app",
     preview : "Bark-Type.png",
@@ -45,7 +54,7 @@ export const projects = [
     link: "https://github.com/CodeAndCofe/Barktype",
   },
   {
-    number: "06",
+    number: "07",
     name: "Philosophers",
     type: "Concurrency / C",
     preview : "",
@@ -54,7 +63,7 @@ export const projects = [
     link: "https://github.com/CodeAndCofe/philosopher",
   },
   {
-    number: "07",
+    number: "08",
     name: "Restaurant Website",
     type: "Frontend / Vue.js",
     preview : "resturant.png",
@@ -63,7 +72,7 @@ export const projects = [
     link: "https://github.com/CodeAndCofe/resturant-website",
   },
   {
-    number: "08",
+    number: "09",
     name: "Push Swap",
     type: "Algorithms / C",
     preview : "",
